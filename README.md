@@ -9,14 +9,16 @@ This repository is a final project (Java GUI) from Object-Oriented Programming C
 ## Credits
 | NPM           | Name        |
 | ------------- |-------------|
-| 140810xx00xx  | John Doe    |
-| 140810xx00xx  | Jane Doe    |
-| 140810xx00xx  | Lorem Ipsum |
+| 140810190027  | Zahra Claura Hermawan |
+| 140810190039  | Muhammad Raihan Fatoni |
+| 140810190073  | Farhan Maulana Alief |
 
 ## Change log
-- **[Sprint Planning](changelog/sprint-planning.md) - (planning date)** 
-   -  Short changes 1
-   - Short changes 2
+- **[Sprint Planning](changelog/sprint-planning.md) - (19/11/2020)** 
+   - create a basic user interface
+   - create a snake
+   - implement snake movements
+   - test out the movements of the snake
 
 - **[Sprint 1](changelog/sprint-1.md) - (date from x until x)** 
    - Short changes 1
