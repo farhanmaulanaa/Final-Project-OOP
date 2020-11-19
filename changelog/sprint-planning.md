@@ -1,5 +1,5 @@
 # Sprint Planning 
-| dd/mm/yyyy
+| 19/11/2020
 
 ### Team (Insert your name)
 | NPM           | Name                      |
@@ -11,14 +11,30 @@
 ## Sprint Backlog Keseluruhan 
 | ID  | Title/Desc | Asignee | 
 | --- | ---------- | ------- | 
-| 1.1 |  | Toni | 
-| 2.2 | Make the x | John Doe | 
+| 1.1 | create a basic user interface | Toni | 
+| 1.2 | create a snake | Farhan | 
+| 1.3 | implement snake movements | Farhan | 
+| 1.4 | test out the movements of the snake | Zahra |
+| 2.5 | create foods that would be eaten by the snake | Toni | 
+| 2.6 | make the foods appear randomly | Toni | 
+| 2.7 | test out the food | Farhan | 
+| 2.8 | implement the concept of snake enlarging as it eats more foods | Zahra | 
+| 3.9 | implement the rules of the game | Toni | 
+| 3.10 | create the score board | Toni |
+| 3.11 | implement the restarts and gameovers | Farhan | 
+| 3.12 | test out the game | Farhan | 
+| 3.13 | bug fixes | Zahra | 
+| 3.14 | final check and the game is set | Zahra |
+
+
 
 ## Sprint Backlog Plan (Sprint 1)
 | ID  | Title/Desc | Asignee | 
 | --- | ---------- | ------- | 
-| 1.1 | Preparing the x | Jane Doe | 
-| 2.2 | Make the x | John Doe | 
+| 1.1 | create a basic user interface | Toni | 
+| 1.2 | create a snake | Farhan | 
+| 1.3 | implement snake movements | Farhan | 
+| 1.4 | test out the movements of the snake | Zahra |
 
 ## Retrospective 
 
